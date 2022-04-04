@@ -24,3 +24,5 @@ int main()
         }
     }
 }
+
+//https://pl.spoj.com/problems/ROWNANIE/
